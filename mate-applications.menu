@@ -1,0 +1,63 @@
+<!DOCTYPE Menu
+  PUBLIC '-//freedesktop//DTD Menu 1.0//EN'
+  'http://standards.freedesktop.org/menu-spec/menu-1.0.dtd'>
+<Menu>
+	<Name>Applications</Name>
+	<MergeFile type="parent">/etc/xdg/menus/mate-applications.menu</MergeFile>
+	<Menu>
+		<Name>Android Tamer</Name>
+		<Directory>androidtamer.directory</Directory>
+		<Include>
+    		<Category>X-tamer-top</Category>
+	    </Include>
+		<Menu>
+			<Name>Rom Development</Name>
+			<Directory>tamerromdev.directory</Directory>
+			<Include>
+        		<Category>X-tamer-romdev</Category>
+		    </Include>
+		</Menu>
+		<Menu>
+			<Name>Reverse Engineering</Name>
+			<Directory>tamerre.directory</Directory>
+			<Include>
+        		<Category>X-tamer-re</Category>
+		    </Include>
+		</Menu>
+		<Menu>
+			<Name>Penetration Testing</Name>
+			<Directory>tamerpentest.directory</Directory>
+			<Include>
+        		<Category>X-tamer-pentest</Category>
+		    </Include>
+		</Menu>
+		<Menu>
+			<Name>Forensics</Name>
+			<Directory>forensic.directory</Directory>
+			<Include>
+        		<Category>X-tamer-forensics</Category>
+		    </Include>
+		</Menu>
+		<Menu>
+			<Name>Development</Name>
+			<Directory>development.directory</Directory>
+		</Menu>
+			<Include>
+        		<Category>X-tamer-dev</Category>
+		    </Include>
+		<Menu>
+			<Name>Dynamic Analysis</Name>
+			<Directory>dynamicanalysis.directory</Directory>
+			<Include>
+        		<Category>X-tamer-dynamicanalysis</Category>
+		    </Include>
+		</Menu>
+		<Menu>
+			<Name>Manual Analysis</Name>
+			<Directory>manualanalysis.directory</Directory>
+			<Include>
+        		<Category>X-tamer-manualanalysis</Category>
+		    </Include>
+		</Menu>
+	</Menu>
+</Menu>

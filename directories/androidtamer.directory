@@ -1,0 +1,8 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Type=Directory
+Icon[en_US]=/usr/share/icons/androidtamer/logo.png
+Name[en_US]=Android Tamer
+Name=Android Tamer
+Icon=/usr/share/icons/androidtamer/logo.png
