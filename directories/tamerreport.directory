@@ -1,0 +1,6 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Type=Directory
+Name=Reporting
+Icon=/usr/share/icons/androidtamer/tamericon80.png

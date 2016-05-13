@@ -59,5 +59,12 @@
         		<Category>X-tamer-manualanalysis</Category>
 		    </Include>
 		</Menu>
+		<Menu>
+			<Name>Reporting</Name>
+			<Directory>tamerreport.directory</Directory>
+			<Include>
+        		<Category>X-tamer-reporting</Category>
+		    </Include>
+		</Menu>
 	</Menu>
 </Menu>
