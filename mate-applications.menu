@@ -8,7 +8,7 @@
 		<Name>Android Tamer</Name>
 		<Directory>androidtamer.directory</Directory>
 		<Include>
-    		<Category>X-tamer-top</Category>
+    		<Category>X-tamer</Category>
 	    </Include>
 		<Menu>
 			<Name>Rom Development</Name>
