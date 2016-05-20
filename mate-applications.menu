@@ -46,6 +46,13 @@
         		<Category>X-tamer-dev</Category>
 		    </Include>
 		<Menu>
+			<Name>Development</Name>
+			<Directory>fuzzing.directory</Directory>
+		</Menu>
+			<Include>
+        		<Category>X-tamer-fuzz</Category>
+		    </Include>
+		<Menu>
 			<Name>Dynamic Analysis</Name>
 			<Directory>dynamicanalysis.directory</Directory>
 			<Include>
