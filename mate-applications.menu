@@ -41,17 +41,17 @@
 		<Menu>
 			<Name>Development</Name>
 			<Directory>development.directory</Directory>
-		</Menu>
 			<Include>
         		<Category>X-tamer-dev</Category>
 		    </Include>
+		</Menu>
 		<Menu>
 			<Name>Development</Name>
 			<Directory>fuzzing.directory</Directory>
-		</Menu>
 			<Include>
         		<Category>X-tamer-fuzz</Category>
 		    </Include>
+		</Menu>
 		<Menu>
 			<Name>Dynamic Analysis</Name>
 			<Directory>dynamicanalysis.directory</Directory>
