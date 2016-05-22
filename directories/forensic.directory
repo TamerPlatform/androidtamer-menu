@@ -2,7 +2,5 @@
 [Desktop Entry]
 Version=1.0
 Type=Directory
-Icon[en_US]=/usr/share/icons/androidtamer/tamericon80.png
-Name[en_US]=Forensics
 Name=Forensics
-Icon=/usr/share/icons/androidtamer/tamericon80.png
+Icon=folder
